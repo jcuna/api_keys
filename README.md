@@ -47,7 +47,7 @@ public function render($request, Exception $exception)
 * `php artisan api:client ls` Lists clients that are not expired. Use `php artisan api:client ls --all` to list all clients
 * `php artisan api:client expire` Expires a client, follow the prompt
 
-##Adding the auth to your routes
+## Adding the auth to your routes
 ** routes/web.php **
 ```
 $router->group(
