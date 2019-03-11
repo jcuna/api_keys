@@ -1,0 +1,10 @@
+{
+    "name": "jcuna/api_keys",
+    "description": "API Keys authentication package",
+    "type": "library",
+    "autoload": {
+      "psr-4": {
+        "Jcuna\\ApiKeys\\": "src/"
+      }
+    }
+}
